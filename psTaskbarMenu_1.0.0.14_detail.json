@@ -1,0 +1,190 @@
+{
+  "DataFormat": 1,
+  "AppName": "psTaskbarMenu",
+  "AppExec": "psTaskbarMenu.exe",
+  "AppVer": "1.0.0.14",
+  "DownloadURL": "https://raw.githubusercontent.com/PINSystems/psTaskbarMenu_Archive/main/psTaskbarMenu_1.0.0.14_app.zip",
+  "DownloadSHA256": "AC6253A401762046819D61E59BC13EA33AB090070AD3C7C989A653836F5265F6",
+  "HistoryURL": "https://raw.githubusercontent.com/PINSystems/psTaskbarMenu_Archive/main/psTaskbarMenu_1.0.0.14_history.txt",
+  "DocsURL": "https://www.pinsystems.com/apps/psTaskbarMenu.aspx",
+  "SiteURL": "https://www.pinsystems.com/apps/psTaskbarMenu.aspx",
+  "GitHubURL": "https://github.com/PINSystems/psTaskbarMenu",
+  "FileData": [
+    {
+      "FileName": "BouncyCastle.Crypto.dll",
+      "FileSize": 2609152,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8091859Z",
+      "FileDateLastUpdated_UTC": "2020-12-08T19:05:32Z",
+      "FileHash_SHA256": "333903C7D22A27098E45FC64B77A264AA220605CFBD3E329C200D7E4B42C881C",
+      "FileVersionString": "1.8.20343.1"
+    },
+    {
+      "FileName": "BouncyCastle.Cryptography.dll",
+      "FileSize": 6871320,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8241914Z",
+      "FileDateLastUpdated_UTC": "2023-04-21T12:07:22Z",
+      "FileHash_SHA256": "3F0182309F8FFB9CE0FA5F303219D3155BF1DA232E14A620ED234AEC209A2935",
+      "FileVersionString": "2.2.1.47552"
+    },
+    {
+      "FileName": "BouncyCastle.Cryptography.xml",
+      "FileSize": 1736400,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8614897Z",
+      "FileDateLastUpdated_UTC": "2023-04-21T12:07:02Z",
+      "FileHash_SHA256": "6B864EF375BA99E4D1F1694A8ADFBDF03C78372700D3FBE062AA23703B0C822B",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "JWT.dll",
+      "FileSize": 50176,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8694908Z",
+      "FileDateLastUpdated_UTC": "2023-07-18T01:43:04Z",
+      "FileHash_SHA256": "3A7D3B710C07F1D7510B2C2324D2FB85657EFB2774975EC8EFE40EC2F59AA732",
+      "FileVersionString": "10.0.0.0"
+    },
+    {
+      "FileName": "JWT.pdb",
+      "FileSize": 20932,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8714904Z",
+      "FileDateLastUpdated_UTC": "2023-07-18T01:43:04Z",
+      "FileHash_SHA256": "4BCF96E88E499B69CAD0D1DC289D917BFF765EA0954E05EE7611AFF7DB687B89",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "JWT.xml",
+      "FileSize": 94813,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8744941Z",
+      "FileDateLastUpdated_UTC": "2023-07-18T01:43:04Z",
+      "FileHash_SHA256": "9B6E5E6D37E54BE68CF7032E45DBB01749B5DD4C1945D0A7296DE03F009BB470",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "Newtonsoft.Json.dll",
+      "FileSize": 712464,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8764963Z",
+      "FileDateLastUpdated_UTC": "2023-03-08T08:09:54Z",
+      "FileHash_SHA256": "22C649F75FCE5BE7C7CCDA8880473B634EF69ECF33F5D1AB8AD892CAF47D5A07",
+      "FileVersionString": "13.0.3.27908"
+    },
+    {
+      "FileName": "Ookii.Dialogs.Wpf.dll",
+      "FileSize": 105984,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.890495Z",
+      "FileDateLastUpdated_UTC": "2021-12-19T18:40:54Z",
+      "FileHash_SHA256": "0B849A11AE23E36D70A0DC1D7A1E9BE244855C28DABFD50553DDB34448AA2DA8",
+      "FileVersionString": "5.0.1.0"
+    },
+    {
+      "FileName": "PSI.dll",
+      "FileSize": 227328,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.8954912Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:02Z",
+      "FileHash_SHA256": "855E3053E9E5AA16F9D86670D3EBD7CB2D238C91D40897D00C04E59DDC228B20",
+      "FileVersionString": "1.0.0.0"
+    },
+    {
+      "FileName": "PSI.pdb",
+      "FileSize": 523776,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9064913Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:02Z",
+      "FileHash_SHA256": "3C3EC2D18FA843CD07DC8F64CDC673115D535CE96883CA1A92BD58F291755B7D",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "PSI.Security.dll",
+      "FileSize": 34304,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9128086Z",
+      "FileDateLastUpdated_UTC": "2023-08-14T04:02:42Z",
+      "FileHash_SHA256": "A85FB489B0A252F5ABFE3B3F88D798B7C24F85FC95D1A1C225122B875FEFC629",
+      "FileVersionString": "1.0.0.0"
+    },
+    {
+      "FileName": "PSI.Security.dll.config",
+      "FileSize": 1915,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9218091Z",
+      "FileDateLastUpdated_UTC": "2023-08-08T02:15:32Z",
+      "FileHash_SHA256": "BB59304AE9DB8245E8300FBCF29D6E24C9CCE68DEF3CE495482A8A067EEA21E0",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "PSI.Security.pdb",
+      "FileSize": 85504,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9228285Z",
+      "FileDateLastUpdated_UTC": "2023-08-14T04:02:42Z",
+      "FileHash_SHA256": "E59DB36A525BC3192E441346F7BEF7195F07DE38189CBF995593873989C656AA",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "PSI.WPF.dll",
+      "FileSize": 134144,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9278352Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "1EE8629DF5337DE9849FA500E2EFE364944DC7FC52BC729AC5A2CDB34C4A60B6",
+      "FileVersionString": "1.0.0.0"
+    },
+    {
+      "FileName": "PSI.WPF.dll.config",
+      "FileSize": 1409,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9288344Z",
+      "FileDateLastUpdated_UTC": "2023-08-13T03:24:16Z",
+      "FileHash_SHA256": "A7C3F96D322C30AED736BBFC05CAD72C3F5181D548F3EF48194E1849894D42AE",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "PSI.WPF.pdb",
+      "FileSize": 288256,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9298352Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "F07B5AB4989E6162A4A2424C6106588E2BF500F9F6F2E53982C2925366C78A19",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "psTaskbarMenu.deps.json",
+      "FileSize": 3127,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9348349Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "BA9DD8EAFED587DF4DE4EE9519CAD11E3938D3C6CEA368E95C9BCBB64C50D9EA",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "psTaskbarMenu.dll",
+      "FileSize": 266752,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9358341Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "35B6327EA500D85EAE422F4180F587959C6ECAB20326A23B764152820CE6DEA5",
+      "FileVersionString": "1.0.0.14"
+    },
+    {
+      "FileName": "psTaskbarMenu.exe",
+      "FileSize": 326656,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9378344Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "3F9C6921242EDFE5C600D5775E476F359D7B1A49FD07C11BF9A09F23D9B9272A",
+      "FileVersionString": "1.0.0.14"
+    },
+    {
+      "FileName": "psTaskbarMenu.pdb",
+      "FileSize": 28048,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9448349Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "7F4AE6D558D1F8A38B684BDD3B8A6F2137EE0C5E5489414F9EC8206A400D1995",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "psTaskbarMenu.runtimeconfig.json",
+      "FileSize": 266,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9468358Z",
+      "FileDateLastUpdated_UTC": "2023-08-15T02:28:04Z",
+      "FileHash_SHA256": "321B4E463BBACD6113AA337511BDEBF5E7356E9971744346B28424607C7B483A",
+      "FileVersionString": "0.0.0.0"
+    },
+    {
+      "FileName": "psTaskbarMenu.xmlini",
+      "FileSize": 213,
+      "FileDateCreated_UTC": "2024-02-11T17:37:44.9558349Z",
+      "FileDateLastUpdated_UTC": "2022-10-23T01:36:16Z",
+      "FileHash_SHA256": "8DCD7CEB4947D95D01DBF25374E5B3E6E806EE22F59A0EFFFD263FD7E90B8332",
+      "FileVersionString": "0.0.0.0"
+    }
+  ]
+}

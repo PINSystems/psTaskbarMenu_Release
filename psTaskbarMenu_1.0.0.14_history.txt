@@ -1,0 +1,4 @@
+﻿2023-08-14  |  Version: 1.0.0.14
+-------------------------------------------------------------
+* Added this data source
+* Removed test MessageBox (when thumbs.db or desktop.ini file is found)
