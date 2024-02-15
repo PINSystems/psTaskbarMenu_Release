@@ -3,7 +3,7 @@
   "AppName": "psTaskbarMenu",
   "AppExec": "psTaskbarMenu.exe",
   "AppVer": "1.0.0.91",
-  "DownloadURL": "https://raw.githubusercontent.com/PINSystems/psTaskbarMenu_Release/master/psTaskbarMenu_1.0.0.91_app.zip",
+  "DownloadURL": "https://github.com/PINSystems/psTaskbarMenu_Release/raw/main/psTaskbarMenu_1.0.0.91_app.zip",
   "DownloadSHA256": "6FCB162DAE31E129A0F0D3B22C811585139E5E096DB56A2F82ACE91ADE089B0B",
   "HistoryURL": "https://raw.githubusercontent.com/PINSystems/psTaskbarMenu_Release/master/psTaskbarMenu_1.0.0.91_history.txt",
   "DocsURL": "https://www.pinsystems.com/apps/psTaskbarMenu.aspx",
