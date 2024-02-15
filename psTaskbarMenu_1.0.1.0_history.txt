@@ -1,0 +1,58 @@
+﻿2024-02-15  |  Version: 1.0.1.0
+-------------------------------------------------------------
+* Updated Menu Tree build logic to resolve a nested/sub directory issue.
+  Spaces in folder names caused the folder to appear in it's appropriate
+  location and in the parent folder 
+* Changed Settings UI Save and Cancel from buttons to link buttons
+  To matches all other actions in the UI 
+* Updated psiToast control to be a self-contained control.
+  - There are now no external "<Grid>" container requirements.
+* Updated psiToast control to facilitate timed and manual message closure.
+* MAJOR SECURITY UPDATE ---    
+  - Version information and deployment packages are now maintained 
+    on/retrieved from GitHub in PINSystems repositories: 
+      https://github.com/PINSystems/psTaskbarMenu
+      https://github.com/PINSystems/psTaskbarMenu_Release
+    Current version info | View::
+      https://github.com/PINSystems/psTaskbarMenu/blob/main/psTaskbarMenu_!CurrVer.json
+    Specific Version detailed info | View:
+      https://github.com/PINSystems/psTaskbarMenu_Release/blob/main/psTaskbarMenu_<version>_detail.json
+    Version History info | View:
+      https://github.com/PINSystems/psTaskbarMenu_Release/blob/main/psTaskbarMenu_<version>_history.txt
+  - When a version update is identified and downloaded, a hash of the package 
+    has been retrieved from GitHub. If the hash of the download file and the hash 
+    from the version detail file don't match, the file is deemed corrupt and 
+    the update is aborted.
+  - All application files are hashed and those hashes are compared against 
+    version detail data before installation.  
+  - A "Validate" action has been added to the About UI.
+    When this action is selected, app version detail information is downloaded 
+    and all local application files are validated against the server supplied data. 
+
+  NOTE: Version 1.0.0.14 and below will automatically update via PINSystesm.com
+        until March, 15, 2024.  Following that date, updating psTaskbarMenu will
+        require a manual process.  
+        The manual process:
+          1) Make sure psTaskbarMenu is closed.
+          2) Rename the folder containing psTaskbarMenu.exe (making a backup)
+          3) Create a new folder with the original name
+          4) Download the latest psTaskbarMenu_<version>_app.zip from GitHub.
+          5) Unzip that download into the original folder 
+          6) After you're satisfied that it's running properly,delete the app zip file
+             and the renamed psTaskbarMenu folder (the old version).
+
+    
+2024-02-14  |  Version: 1.0.0.90 (test version)
+-------------------------------------------------------------
+Finalizing new distribution logic.
+
+
+2024-02-14  |  Version: 1.0.0.91 (test version)
+-------------------------------------------------------------
+Finalizing  new distribution logic.
+
+
+2023-08-14  |  Version: 1.0.0.14
+-------------------------------------------------------------
+* Added this data source
+* Removed test MessageBox (when thumbs.db or desktop.ini file is found)
