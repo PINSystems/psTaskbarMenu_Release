@@ -1,0 +1,34 @@
+﻿2024-02-14  |  Version: 1.0.1.0
+-------------------------------------------------------------
+* Updated Menu Tree build logic to resolve a nested/sub directory issue.
+  Spaces in folder names caused the folder to appear in it's appropraite
+  location and in the parent folder  
+* Major security update ---
+  - Version information and deployment packagesare now maintained 
+    on/retrieved from GitHub in PINSystems repositories: 
+      https://github.com/PINSystems/psTaskbarMenu
+      https://github.com/PINSystems/psTaskbarMenu_Release
+    Current version info | View::
+      https://github.com/PINSystems/psTaskbarMenu/blob/main/psTaskbarMenu_!CurrVer.json
+    Specific Version info | View:
+      https://github.com/PINSystems/psTaskbarMenu_Release/blob/main/psTaskbarMenu_<version>_detail.json
+    Version History info | View:
+      https://github.com/PINSystems/psTaskbarMenu_Release/blob/main/psTaskbarMenu_<version>_history.txt
+  - When a version update is identified and downloaded, a hash of the package 
+    has been retrieved from GitHub. If the hash of the download and the hash 
+    from the version detail file don't match, the file is deemed corrupt and 
+    the update is aborted.
+  - All application files are hashed and those hashes are compared against 
+    version detail data before installation.  
+  - A "Validate" action has been added to the About UI.
+    When this action is selected, app version detail information is downloaded 
+    and all application files are validated against the server data. 
+* Changed Settings UI Save and Cancel from buttons to link buttons (matching others) 
+* Updated psiToast to be a self-contained control.
+  There are now no no external "<Grid>" requirements.
+* Updated psiToast to facilitate timed and manual meesage closure.
+    
+2023-08-14  |  Version: 1.0.0.14
+-------------------------------------------------------------
+* Added this data source
+* Removed test MessageBox (when thumbs.db or desktop.ini file is found)
