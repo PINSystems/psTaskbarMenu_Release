@@ -1,0 +1,20 @@
+{
+  "AppName": "psTaskbarMenu",
+  "AppVer": "1.0.0.91",
+  "AppFiles": [
+    "\\AppFiles\\Newtonsoft.Json.dll",
+    "\\AppFiles\\Ookii.Dialogs.Wpf.dll",
+    "\\AppFiles\\PSI.dll",
+    "\\AppFiles\\PSI.pdb",
+    "\\AppFiles\\PSI.WPF.dll",
+    "\\AppFiles\\PSI.WPF.dll.config",
+    "\\AppFiles\\PSI.WPF.pdb",
+    "\\AppFiles\\psTaskbarMenu.deps.json",
+    "\\AppFiles\\psTaskbarMenu.dll",
+    "\\AppFiles\\psTaskbarMenu.exe",
+    "\\AppFiles\\psTaskbarMenu.pdb",
+    "\\AppFiles\\psTaskbarMenu.runtimeconfig.json",
+    "\\AppFiles\\psTaskbarMenu.xmlini"
+  ],
+  "AppFilesHash_256": "A100956BC19F4CA6661A99F0681607771496D44EB2760E1C0557279DB72890F9"
+}
